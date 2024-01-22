@@ -1,7 +1,29 @@
 
 # Guided Assignment - Introduction to Boolean (Bool) in C#
 
-## Tutorials
+## Introduction
+
+
+
+### Project Requirements
+
+1. **Project Naming:** The project should be named `GA_Bool_YourName`.
+2. **Code Commenting:** Include a comment at the top of the code with your name.
+3. **Code Compilation:** The submitted code should be free from compile errors.
+4. **Implementation of Steps:** All the steps from the guided assignment should be correctly implemented.
+    - Step 1: Display a Boolean Value
+    - Step 2: Declaring a Boolean Variable
+    - Step 3: Using Booleans in Conditional Statements
+    - Step 4: Toggling a Boolean Value
+    - Step 5: Boolean Logic
+
+---
+
+## Step By Step
+
+## Watch the Boolean Segment of the Lecture 4 ( Starts at 32:30 - 2 Minutes)
+## https://www.youtube.com/watch?v=QwpnaIsL1MQ&t=1950s
+
 
 ### Starting Code
 ```csharp
@@ -156,3 +178,31 @@ The result will depend on the combination of `isAdult` and `hasLicense`.
 - **Syntax Highlighting:** Notice how different elements like variables, booleans, and conditional statements are highlighted.
 
 ---
+
+
+Based on the provided guided assignment, here are the requirements and rubric for the project:
+
+
+
+### Rubric
+
+| **Name** | **Description** | **Points** |
+|----------|-----------------|------------|
+| Project Naming | The project is named `GA_Bool_YourName`. | 10 |
+| Code Commenting | A comment with the student's name is included at the top of the code. | 10 |
+| Error-Free Code | The submitted code compiles without any errors. | 20 |
+| Step 1 Completion | Correctly displaying a boolean value (`true`) in the console. | 10 |
+| Step 2 Completion | Successfully declaring a `bool` variable and using it in `Console.WriteLine`. | 10 |
+| Step 3 Completion | Implementing an `if` statement using the `bool` variable and displaying appropriate messages. | 10 |
+| Step 4 Completion | Toggling the `bool` value and observing the output change. | 10 |
+| Step 5 Completion | Using `&&` (AND) and `||` (OR) operators correctly in a conditional statement with two `bool` variables. | 10 |
+| Additional Challenge | Completing an additional challenge like creating more complex conditions using boolean logic. | 10 |
+
+**Total Points:** 100
+
+### Additional Notes
+
+- Students should follow the guided assignment closely and ensure they understand each step before proceeding.
+- Creativity in the additional challenge will be appreciated but should adhere to the use of boolean logic.
+- Proper coding practices, such as meaningful variable names and readability, are encouraged.
+- The rubric points for each step are based on both implementation and understanding, as evidenced by the code written.
