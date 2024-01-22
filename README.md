@@ -71,6 +71,7 @@ In C#, the `bool` data type is used to declare and work with boolean values. Her
 ## Watch the Boolean Segment of the Lecture 4 ( Starts at 32:30 - 2 Minutes)
 ## https://www.youtube.com/watch?v=QwpnaIsL1MQ&t=1950s
 
+Then following instructions in the Step By Step portion of the assignment on GitHub
 
 ### Starting Code
 ```csharp
